@@ -1,0 +1,15 @@
+.btn-banner {
+    color: #4c508b;
+	padding: 10px 20px;
+	border-radius: 12px;
+	font-weight: bolder;
+	background-color: #a1a6ec;
+	opacity: 0.8;
+	transition: 0.5s;
+}
+
+.btn-banner:hover {
+	color: white;
+	background-color: #12589bef;
+	border-radius: 24px;
+}

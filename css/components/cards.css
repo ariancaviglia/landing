@@ -1,0 +1,22 @@
+.card {
+    width: 220px;
+    text-align: center;
+    padding: 24px;
+    border-radius: 8px;
+    border: 2px solid grey;
+    box-shadow: 3px 3px 10px 0.5px rgb(107, 107, 107);
+}
+
+.card img {
+    width: 80px;
+}
+
+.barbarian-image {
+    width: 80px;
+    height: 100px;
+}
+
+.viking-image {
+    width: 80px;
+    height: 90px;
+}

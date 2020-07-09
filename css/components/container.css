@@ -1,0 +1,10 @@
+.container {
+    width: 900px;
+    margin: auto;
+
+}
+
+.container-cards {
+  display: flex;
+  justify-content: space-between;
+}
